@@ -1,0 +1,17 @@
+C:\Навчання\OOP\OOPLab03\OOPLab3\OOPLab3\bin\Debug\OOPLab3.exe.config
+C:\Навчання\OOP\OOPLab03\OOPLab3\OOPLab3\bin\Debug\OOPLab3.exe
+C:\Навчання\OOP\OOPLab03\OOPLab3\OOPLab3\bin\Debug\OOPLab3.pdb
+C:\Навчання\OOP\OOPLab03\OOPLab3\OOPLab3\obj\Debug\OOPLab3.csproj.AssemblyReference.cache
+C:\Навчання\OOP\OOPLab03\OOPLab3\OOPLab3\obj\Debug\OOPLab3.Form1.resources
+C:\Навчання\OOP\OOPLab03\OOPLab3\OOPLab3\obj\Debug\OOPLab3.Properties.Resources.resources
+C:\Навчання\OOP\OOPLab03\OOPLab3\OOPLab3\obj\Debug\OOPLab3.csproj.GenerateResource.cache
+C:\Навчання\OOP\OOPLab03\OOPLab3\OOPLab3\obj\Debug\OOPLab3.csproj.CoreCompileInputs.cache
+C:\Навчання\OOP\OOPLab03\OOPLab3\OOPLab3\obj\Debug\OOPLab3.exe
+C:\Навчання\OOP\OOPLab03\OOPLab3\OOPLab3\obj\Debug\OOPLab3.pdb
+C:\Навчання\OOP\OOPLab3\OOPLab3\obj\Debug\OOPLab3.csproj.AssemblyReference.cache
+C:\Навчання\OOP\OOPLab3\OOPLab3\obj\Debug\OOPLab3.Form1.resources
+C:\Навчання\OOP\OOPLab3\OOPLab3\obj\Debug\OOPLab3.Properties.Resources.resources
+C:\Навчання\OOP\OOPLab3\OOPLab3\obj\Debug\OOPLab3.csproj.GenerateResource.cache
+C:\Навчання\OOP\OOPLab3\OOPLab3\obj\Debug\OOPLab3.csproj.CoreCompileInputs.cache
+C:\Навчання\OOP\OOPLab3\OOPLab3\obj\Debug\OOPLab3.exe
+C:\Навчання\OOP\OOPLab3\OOPLab3\obj\Debug\OOPLab3.pdb

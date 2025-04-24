@@ -1,0 +1,10 @@
+C:\Навчання\OOP\OOPLab3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Навчання\OOP\OOPLab3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Навчання\OOP\OOPLab3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Навчання\OOP\OOPLab3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Навчання\OOP\OOPLab3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Навчання\OOP\OOPLab3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Навчання\OOP\OOPLab3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Навчання\OOP\OOPLab3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Навчання\OOP\OOPLab3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Навчання\OOP\OOPLab3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

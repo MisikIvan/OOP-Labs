@@ -1,0 +1,13 @@
+C:\Навчання\OOP\OOPLab05\StructConlsole\obj\Debug\netcoreapp3.1\StructConlsole.csproj.AssemblyReference.cache
+C:\Навчання\OOP\OOPLab05\StructConlsole\obj\Debug\netcoreapp3.1\StructConlsole.AssemblyInfoInputs.cache
+C:\Навчання\OOP\OOPLab05\StructConlsole\obj\Debug\netcoreapp3.1\StructConlsole.AssemblyInfo.cs
+C:\Навчання\OOP\OOPLab05\StructConlsole\obj\Debug\netcoreapp3.1\StructConlsole.csproj.CoreCompileInputs.cache
+C:\Навчання\OOP\OOPLab05\StructConlsole\bin\Debug\netcoreapp3.1\StructConlsole.exe
+C:\Навчання\OOP\OOPLab05\StructConlsole\bin\Debug\netcoreapp3.1\StructConlsole.deps.json
+C:\Навчання\OOP\OOPLab05\StructConlsole\bin\Debug\netcoreapp3.1\StructConlsole.runtimeconfig.json
+C:\Навчання\OOP\OOPLab05\StructConlsole\bin\Debug\netcoreapp3.1\StructConlsole.runtimeconfig.dev.json
+C:\Навчання\OOP\OOPLab05\StructConlsole\bin\Debug\netcoreapp3.1\StructConlsole.dll
+C:\Навчання\OOP\OOPLab05\StructConlsole\bin\Debug\netcoreapp3.1\StructConlsole.pdb
+C:\Навчання\OOP\OOPLab05\StructConlsole\obj\Debug\netcoreapp3.1\StructConlsole.dll
+C:\Навчання\OOP\OOPLab05\StructConlsole\obj\Debug\netcoreapp3.1\StructConlsole.pdb
+C:\Навчання\OOP\OOPLab05\StructConlsole\obj\Debug\netcoreapp3.1\StructConlsole.genruntimeconfig.cache

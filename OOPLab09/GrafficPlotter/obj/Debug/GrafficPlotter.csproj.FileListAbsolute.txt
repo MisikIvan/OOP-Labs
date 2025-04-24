@@ -1,0 +1,10 @@
+C:\Навчання\OOP\OOPLab09\GrafficPlotter\bin\Debug\GrafficPlotter.exe.config
+C:\Навчання\OOP\OOPLab09\GrafficPlotter\bin\Debug\GrafficPlotter.exe
+C:\Навчання\OOP\OOPLab09\GrafficPlotter\bin\Debug\GrafficPlotter.pdb
+C:\Навчання\OOP\OOPLab09\GrafficPlotter\obj\Debug\GrafficPlotter.csproj.AssemblyReference.cache
+C:\Навчання\OOP\OOPLab09\GrafficPlotter\obj\Debug\GrafficPlotter.Form1.resources
+C:\Навчання\OOP\OOPLab09\GrafficPlotter\obj\Debug\GrafficPlotter.Properties.Resources.resources
+C:\Навчання\OOP\OOPLab09\GrafficPlotter\obj\Debug\GrafficPlotter.csproj.GenerateResource.cache
+C:\Навчання\OOP\OOPLab09\GrafficPlotter\obj\Debug\GrafficPlotter.csproj.CoreCompileInputs.cache
+C:\Навчання\OOP\OOPLab09\GrafficPlotter\obj\Debug\GrafficPlotter.exe
+C:\Навчання\OOP\OOPLab09\GrafficPlotter\obj\Debug\GrafficPlotter.pdb
