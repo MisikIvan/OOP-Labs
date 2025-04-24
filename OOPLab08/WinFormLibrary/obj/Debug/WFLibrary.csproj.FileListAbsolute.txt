@@ -1,0 +1,6 @@
+D:\OOP\Lab8\WinFormLibrary\bin\Debug\WinFormLibrary.dll
+D:\OOP\Lab8\WinFormLibrary\bin\Debug\WinFormLibrary.pdb
+D:\OOP\Lab8\WinFormLibrary\obj\Debug\WFLibrary.csproj.AssemblyReference.cache
+D:\OOP\Lab8\WinFormLibrary\obj\Debug\WFLibrary.csproj.CoreCompileInputs.cache
+D:\OOP\Lab8\WinFormLibrary\obj\Debug\WinFormLibrary.dll
+D:\OOP\Lab8\WinFormLibrary\obj\Debug\WinFormLibrary.pdb

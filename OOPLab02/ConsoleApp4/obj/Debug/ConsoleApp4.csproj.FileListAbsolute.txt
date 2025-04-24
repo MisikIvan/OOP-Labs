@@ -1,0 +1,6 @@
+C:\Навчання\OOP\OOP1Lab2\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Навчання\OOP\OOP1Lab2\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Навчання\OOP\OOP1Lab2\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Навчання\OOP\OOP1Lab2\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Навчання\OOP\OOP1Lab2\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Навчання\OOP\OOP1Lab2\ConsoleApp4\obj\Debug\ConsoleApp4.pdb

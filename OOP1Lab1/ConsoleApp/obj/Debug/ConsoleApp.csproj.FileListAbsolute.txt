@@ -1,0 +1,7 @@
+C:\Навчання\OOP\OOP1Lab1\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Навчання\OOP\OOP1Lab1\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Навчання\OOP\OOP1Lab1\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Навчання\OOP\OOP1Lab1\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+C:\Навчання\OOP\OOP1Lab1\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Навчання\OOP\OOP1Lab1\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Навчання\OOP\OOP1Lab1\ConsoleApp\obj\Debug\ConsoleApp.pdb

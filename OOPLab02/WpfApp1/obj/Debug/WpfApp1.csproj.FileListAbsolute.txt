@@ -1,0 +1,15 @@
+C:\Навчання\OOP\OOP1Lab2\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Навчання\OOP\OOP1Lab2\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Навчання\OOP\OOP1Lab2\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Навчання\OOP\OOP1Lab2\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Навчання\OOP\OOP1Lab2\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Навчання\OOP\OOP1Lab2\WpfApp1\obj\Debug\App.g.cs
+C:\Навчання\OOP\OOP1Lab2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Навчання\OOP\OOP1Lab2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Навчання\OOP\OOP1Lab2\WpfApp1\obj\Debug\MainWindow.baml
+C:\Навчання\OOP\OOP1Lab2\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Навчання\OOP\OOP1Lab2\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Навчання\OOP\OOP1Lab2\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Навчання\OOP\OOP1Lab2\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Навчання\OOP\OOP1Lab2\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Навчання\OOP\OOP1Lab2\WpfApp1\obj\Debug\WpfApp1.pdb

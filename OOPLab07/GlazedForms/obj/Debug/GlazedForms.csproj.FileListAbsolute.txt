@@ -1,0 +1,10 @@
+C:\Навчання\OOP\OOPLab07\GlazedForms\bin\Debug\GlazedForms.exe.config
+C:\Навчання\OOP\OOPLab07\GlazedForms\bin\Debug\GlazedForms.exe
+C:\Навчання\OOP\OOPLab07\GlazedForms\bin\Debug\GlazedForms.pdb
+C:\Навчання\OOP\OOPLab07\GlazedForms\obj\Debug\GlazedForms.csproj.AssemblyReference.cache
+C:\Навчання\OOP\OOPLab07\GlazedForms\obj\Debug\GlazedForms.Form1.resources
+C:\Навчання\OOP\OOPLab07\GlazedForms\obj\Debug\GlazedForms.Properties.Resources.resources
+C:\Навчання\OOP\OOPLab07\GlazedForms\obj\Debug\GlazedForms.csproj.GenerateResource.cache
+C:\Навчання\OOP\OOPLab07\GlazedForms\obj\Debug\GlazedForms.csproj.CoreCompileInputs.cache
+C:\Навчання\OOP\OOPLab07\GlazedForms\obj\Debug\GlazedForms.exe
+C:\Навчання\OOP\OOPLab07\GlazedForms\obj\Debug\GlazedForms.pdb
